@@ -5,7 +5,7 @@ body
     padding: 0;
     height: 165vh;
 
-    background-image: url(/images/fondo1.jpg);
+    background-image: url(fondo1.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
